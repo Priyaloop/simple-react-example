@@ -89,7 +89,7 @@
         "type": "multiple",
         "difficulty": "medium",
         "category": "Animals",
-        "question": "What is the world&#039;s longest venomous snake?",
+        "question": "What is the world longest venomous snake?",
         "correct_answer": "King Cobra",
         "incorrect_answers": [
           "Green Anaconda",
